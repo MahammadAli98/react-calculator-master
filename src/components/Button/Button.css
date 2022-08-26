@@ -1,0 +1,12 @@
+.Button {
+    width: 60px;
+    height: 60px;
+    background-color: grey;
+    padding: 0px;
+    margin: 0px;
+    font-size: 40px;
+    border-radius: 50%;
+    outline: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}

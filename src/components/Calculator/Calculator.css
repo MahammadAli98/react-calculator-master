@@ -1,0 +1,10 @@
+.Clear-button {
+    width: 240px;
+    height: 40px;
+    margin-top: 0px;
+    border-radius: 5%;
+    font-size: 30px;
+    outline: none;
+    background-color: rgb(122, 142, 121);
+    font-family: 'Courier New', Courier, monospace;
+}
